@@ -1,0 +1,1 @@
+For Regular TTT, go to TTT folder, compile  javac Games.java			                                           java GamesThen follow the instructions from the program;For Advanced TTT, go to Advanced TTT folder, compile  javac Games.java			                                                                  java GamesThen follow the instructions from the program.		   
